@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    //创建一个名为db_litepal的数据库
+    <dbname value="db_litepal" />
+    //定义数据库版本号
+    <version value="1" />
+
+    <list>
+        //创建一张学生表
+        <mapping class="com.imswy.databasedemo.bean.Student"></mapping>
+    </list>
+
+</litepal>

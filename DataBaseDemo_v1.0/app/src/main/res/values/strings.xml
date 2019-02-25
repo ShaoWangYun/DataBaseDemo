@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+
+    <string name="DatabaseTest">数据库测试</string>
+
+    <string name="btnSQLite">SQLite</string>
+    <string name="btnLitepal">Litepal</string>
+
+    <string name="baseOnSQLite">基于SQLite</string>
+    <string name="baseOnLitepal">基于Litepal</string>
+
+    <string name="etNameHint">请输入姓名</string>
+    <string name="etStudentIDHint">请输入学号</string>
+    <string name="etAgeHint">请输入年龄</string>
+
+    <string name="btnSave">保存</string>
+</resources>
